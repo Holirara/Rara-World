@@ -2,12 +2,12 @@
 layout: post
 title:  "Why You Can Never Dream Too Big"
 date:   2015-11-17
-categories: Not giving up
+categories: Aspirations
 ---
 
 # Why You Can Never Dream Too Big #
 
-### Dear readers,###
+### Dear readers,
 
 For years, I have always been chasing my dreams. In my head I always say, “Oh i wish I could do this,” or, “how cool would it be if I could do that?!” Yet, most of the time, I am too afraid to really put my mind to it. We all use those excuses, ‘I don’t have enough money’ or ‘I don’t have the time’, but when it comes down to it, what is it we are actually shying away from? Boundaries others have set for us? Or boundaries we have set ourselves? 
  
