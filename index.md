@@ -4,7 +4,7 @@
  
 I am Holly Suttle, also known as  **Holirara**, and you have just entered Rara World. It is a magnificent, splendid world, full of thought and wonder! Feel free to look around, relax and enjoy yourself by having a little ponder. :)
  
-_Being insightful about the Universe, dreaming amongst the stars... this is the Space where you can chill. Sip a cup of beautiful tea and lift your spirit !
+_Being insightful about the Universe, dreaming amongst the stars... this is the Space where you can chill. Sip a cup of beautiful tea and lift your spirit !_
  
 Writing is what I am most passionate about, and here I will share my love with everyone around the globe, with music, stories, ideas, articles, thoughts and words.
  
