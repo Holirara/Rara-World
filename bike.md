@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "How To Conquer Your Fears in Three Days"
+date:   2015-11-17
+categories: Fears
+---
+
 # How To Conquer Your Fears in Three Days #
 
 ### Dear readers,
