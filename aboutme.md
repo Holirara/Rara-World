@@ -1,6 +1,6 @@
-# About Me #
+# About Me 
 
-##_My little life of Ra..._##
+##_My little life of Ra...
 
 Hey! Want to know a little bit more about me? 
 Well... I was born in Oxford, grew up in a little village in the middle of nowhere, in Wiltshire, and then became an English Literature with Creative Writing student studying at Newcastle University, and now I am a freelance writer and editor!
