@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Rara World
 
-You can use the [editor on GitHub](https://github.com/Holirara/raraworld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Holirara/raraworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Hello!  Welcome You!
+ 
+I am Holly Suttle, also known as  **Holirara**, and you have just entered Rara World. It is a magnificent, splendid world, full of thought and wonder! Feel free to look around, relax and enjoy yourself by having a little ponder. :)
+ 
+_Being insightful about the Universe, dreaming amongst the stars... this is the Space where you can chill. Sip a cup of beautiful tea and lift your spirit !
+ 
+Writing is what I am most passionate about, and here I will share my love with everyone around the globe, with music, stories, ideas, articles, thoughts and words.
+ 
+I started a blog to start a space on the web where anyone can **relax and read about anything.** If you want to hear about anything, I love researching new things to do with **_love, travel and nature_**,
+so I'll try my best to fit things in of all sorts! Remember - this page is for you! The readers are the most important people, because you are the ones who will make life better by reading and commenting. I'll share as much love as I can! Share it around!
+ 
+ # Feel the Happiness! 
