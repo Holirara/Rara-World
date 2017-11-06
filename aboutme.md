@@ -9,15 +9,15 @@ Birthday: **5th December**
 
 Fave day of the week: **Friday**
 
-(it just feels like a good day when it's nearly the end the week!)
+(It just feels like a good day when it's nearly the end the week!)
  
-**Loves:** Blueberries (!), playing the piano, going to the gym, socialising with friends, drinking tea, shopping for new clothes, relaxing in the sun, cuddling up with Bruno, my wonderful family, writing stories and poetry, meeting new people, getting caught in the rain, and travelling to far away places!
+**Loves:** Blueberries, playing the piano, going to the gym, socialising with friends, drinking tea, shopping for new clothes, relaxing in the sun, cuddling up with Bruno, my wonderful family, writing stories and poetry, meeting new people, getting caught in the rain, and travelling to far away places.
  
 **Hates:** Soggy potatoes, waking up on Monday and thinking it's still the weekend (nightmare!), being under-the-weather, being bored, unwashed dishes and really gory horror films.
  
 ### 10 Random Facts: ###
 
-1. I have two middle names! Guess them...!
+1. I have two middle names! Guess them...
 
 2. I have 5 sisters - and one big brother!
 
